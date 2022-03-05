@@ -1,0 +1,25 @@
+Ecma Script
+    > Export and default Export
+    > importing built-in module and exported
+    > computed property
+    > destructuring (array and object)
+    > rest and spread operator
+    > object are enemrable
+    > spread operator : foreach loop
+    > for/of and for/in
+    > promises
+    > async/await
+    > generator
+
+> React
+    > library
+    > bable : transpiler
+    > jsx
+    > webback
+    > component Dom
+    > virtual Dom vs acutal Dom
+    > class vs hook
+    > binding : if you have use method wih this keyword
+    > props and validation : if props in not assigned then automatically will be assigned
+    > pure function : global scope value de jai then it will not manipulate
+    > render phase and commit phase : state change will detect in render phase
