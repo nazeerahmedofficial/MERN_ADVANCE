@@ -6,10 +6,11 @@ Ecma Script
     > rest and spread operator
     > object are enemrable
     > spread operator : foreach loop
-    > for/of and for/in
-    > promises
-    > async/await
+    > for/of(enum) and for/in(array)
+    > promises : pending , resolve and reject : help to reduce call back heel
+    > async/await  : always return promise 
     > generator
+    > fetch return promise
 
 > React
     > library
@@ -23,3 +24,24 @@ Ecma Script
     > props and validation : if props in not assigned then automatically will be assigned
     > pure function : global scope value de jai then it will not manipulate
     > render phase and commit phase : state change will detect in render phase
+
+    > props validation 
+    > defalut props 
+
+
+
+// 
+async function getData(
+    {
+        return awiat fetch();
+    }
+)
+const data = await getData(); // pending
+
+
+path 
+semster
+fyp
+linkedin
+ms_sch
+
